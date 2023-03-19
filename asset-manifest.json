@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c2dc36e.css",
-    "main.js": "/static/js/main.bb2fad18.js",
-    "static/js/787.ba7b30b2.chunk.js": "/static/js/787.ba7b30b2.chunk.js",
-    "static/media/Inter-ExtraBold.woff": "/static/media/Inter-ExtraBold.24bf3d3f1efe6a99f59a.woff",
-    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.484bd6e66988b594f558.woff",
-    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.f3ce705f806c10eb6e2d.woff",
-    "static/media/Inter-ExtraBold.woff2": "/static/media/Inter-ExtraBold.218afe6ea4cd7ba61ef9.woff2",
-    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.d4b5441320ecab87d64a.woff2",
-    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.ac03a6de9ea313009257.woff2",
-    "static/media/pic.svg": "/static/media/pic.7ceecf6a868baded8dc04648cebe55c3.svg",
-    "static/media/eye.svg": "/static/media/eye.bc65f28a3b9f631ccb983e6d735bd3b5.svg",
-    "index.html": "/index.html",
-    "static/media/selector.svg": "/static/media/selector.c96dd1f61dca388b305ab9d39c9ecdf0.svg",
-    "main.7c2dc36e.css.map": "/static/css/main.7c2dc36e.css.map",
-    "main.bb2fad18.js.map": "/static/js/main.bb2fad18.js.map",
-    "787.ba7b30b2.chunk.js.map": "/static/js/787.ba7b30b2.chunk.js.map"
+    "main.css": "/calc-constructor/static/css/main.4c1fb544.css",
+    "main.js": "/calc-constructor/static/js/main.b4ced8f8.js",
+    "static/js/787.ba7b30b2.chunk.js": "/calc-constructor/static/js/787.ba7b30b2.chunk.js",
+    "static/media/Inter-ExtraBold.woff": "/calc-constructor/static/media/Inter-ExtraBold.24bf3d3f1efe6a99f59a.woff",
+    "static/media/Inter-Medium.woff": "/calc-constructor/static/media/Inter-Medium.484bd6e66988b594f558.woff",
+    "static/media/Inter-Regular.woff": "/calc-constructor/static/media/Inter-Regular.f3ce705f806c10eb6e2d.woff",
+    "static/media/Inter-ExtraBold.woff2": "/calc-constructor/static/media/Inter-ExtraBold.218afe6ea4cd7ba61ef9.woff2",
+    "static/media/Inter-Medium.woff2": "/calc-constructor/static/media/Inter-Medium.d4b5441320ecab87d64a.woff2",
+    "static/media/Inter-Regular.woff2": "/calc-constructor/static/media/Inter-Regular.ac03a6de9ea313009257.woff2",
+    "static/media/pic.svg": "/calc-constructor/static/media/pic.7ceecf6a868baded8dc04648cebe55c3.svg",
+    "static/media/eye.svg": "/calc-constructor/static/media/eye.bc65f28a3b9f631ccb983e6d735bd3b5.svg",
+    "index.html": "/calc-constructor/index.html",
+    "static/media/selector.svg": "/calc-constructor/static/media/selector.c96dd1f61dca388b305ab9d39c9ecdf0.svg",
+    "main.4c1fb544.css.map": "/calc-constructor/static/css/main.4c1fb544.css.map",
+    "main.b4ced8f8.js.map": "/calc-constructor/static/js/main.b4ced8f8.js.map",
+    "787.ba7b30b2.chunk.js.map": "/calc-constructor/static/js/787.ba7b30b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c2dc36e.css",
-    "static/js/main.bb2fad18.js"
+    "static/css/main.4c1fb544.css",
+    "static/js/main.b4ced8f8.js"
   ]
 }
