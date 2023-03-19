@@ -1,0 +1,17 @@
+.sidebar {
+  padding-top: 68px;
+  display: grid;
+  grid-row-gap: 11px;
+  flex-basis: 240px;
+  max-width: 240px;
+
+  .part {
+    &.disabled {
+      opacity: .5;
+      pointer-events: none;
+    }
+    & > div {
+      pointer-events: none;
+    }
+  }
+}

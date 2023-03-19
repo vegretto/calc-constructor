@@ -1,0 +1,31 @@
+.modeSwitcher {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  padding: 6px 8px;
+  border: 1px solid rgba(0, 0, 0, 0);
+  border-radius: 5px;
+  cursor: pointer;
+
+  &__icon {
+    margin-right: 8px;
+    stroke: #4D5562;
+  }
+
+  &__name {
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 1;
+    color: #4D5562;
+  }
+
+  &--selected {
+    background-color: #fff;
+    border-color: #E2E3E5;
+
+    .modeSwitcher__icon {
+      stroke: var(--color-secondary);
+    }
+  }
+}

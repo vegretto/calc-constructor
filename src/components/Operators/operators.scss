@@ -1,0 +1,9 @@
+.operators {
+  background: #fff;
+  box-shadow: var(--shadow-md);
+  border-radius: 4px;
+  padding: 4px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 8px;
+}

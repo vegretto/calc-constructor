@@ -1,0 +1,32 @@
+.equals {
+  background: #fff;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.equalsBg {
+  background-color: var(--color-secondary);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  border-radius: 6px;
+  padding: 23px;
+  border: 2px solid var(--color-secondary);
+  transition: .2s ease-in-out;
+
+  &:hover {
+    background-color: #fff;
+    color: var(--color-secondary);
+    transition: .2s ease-in-out;
+  }
+
+  &:active {
+    background-color: var(--color-secondary);
+    transition: .1s ease-in-out;
+    color: #fff;
+  }
+}

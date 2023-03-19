@@ -1,0 +1,36 @@
+.canvasPreInit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border: 2px dashed #C4C4C4;
+  border-radius: 6px;
+}
+
+.canvasPreInitContent {
+  max-width: 130px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.canvasPreInitIcon {
+  margin-bottom: 12px;
+}
+
+.canvasPreInitTitle {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: var(--color-secondary);
+  margin-bottom: 4px;
+}
+
+.canvasPreInitText {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  color: #6B7280;
+}

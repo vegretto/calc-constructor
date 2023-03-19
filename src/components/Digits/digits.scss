@@ -1,0 +1,9 @@
+.digits {
+  background: #fff;
+  box-shadow: var(--shadow-md);
+  border-radius: 4px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 8px;
+  padding: 4px;
+}

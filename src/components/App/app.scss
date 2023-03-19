@@ -1,0 +1,17 @@
+@import "./styles/fonts.scss";
+@import "./styles/vars.scss";
+@import "./styles/normalize.scss";
+@import "./styles/base.scss";
+
+.mainWrapper {
+  margin: 38px 76px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 540px;
+  width: 100%;
+}
+
+body {
+  background-color: #fff;
+}
