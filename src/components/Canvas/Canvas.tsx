@@ -72,9 +72,11 @@ const Canvas = () => {
     }), [canvasParts])
 
     const onPartClick = (id: number) => {
-        dispatch(removeFromCanvas(id))
-        if (canvasParts.length <= 1) {
-            dispatch(deInitializeCanvas())
+        if (isInConstructorMode) {
+            dispatch(removeFromCanvas(id))
+            if (canvasParts.length <= 1) {
+                dispatch(deInitializeCanvas())
+            }
         }
     }
 

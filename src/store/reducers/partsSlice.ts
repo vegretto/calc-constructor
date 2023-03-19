@@ -53,8 +53,9 @@ export const calcPartsSlice = createSlice({
                 }
                 return part
             })
-            const partForDelete = state.canvasParts.find(part => part.id === action.payload.id)
+            const partForDelete = state.canvasParts.find(part => part.id === action.payload)
             const index = state.canvasParts.findIndex(part => part.id === partForDelete?.id)
+
             state.canvasParts.splice(index, 1)
         },
 
